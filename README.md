@@ -43,8 +43,9 @@ WebUIAutomation/car_search_in_london
 │   └── gumtree_page.py
 ├── utils/                  # Utility functions
 │   ├── driver_manager.py
-                            # Configuration files
-├── config.py
+│   ├──logger.py            # common logger function  for all modules               
+├── config.py               # Configuration files
+├── logging_config.py
 └── main.py             
 ├── requirements.txt        # List of dependencies
 └──run_tests.py  
