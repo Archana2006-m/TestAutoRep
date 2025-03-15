@@ -1,4 +1,4 @@
-import loggin
+import logging
 class Config:
     BASE_URL = "https://www.google.com"
     SEARCH_TERM = "Cars in London"
